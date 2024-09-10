@@ -9,7 +9,7 @@ This project implements a parser and serializer for the RESP (REdis Serializatio
 
 ## Installation
 
-Simple add the following under `[dependencies]` to your Cargo.toml.
+Simply add the following under `[dependencies]` to your Cargo.toml.
 ```toml
 resp = { git = "https://github.com/Palladium02/resp.git" }
 ```
